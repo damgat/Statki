@@ -2,6 +2,10 @@
 
 Simple game built with JavaScript.
 
+# Screenshots
+
+![Screenshot 2023-04-28 at 12-56-59 Gra w okręty](https://user-images.githubusercontent.com/83064936/235130551-b34a1b23-55d0-47a2-8296-2f92819cabfd.png)
+
 ## Table of contents
 
 - [General Information](#general-information)
